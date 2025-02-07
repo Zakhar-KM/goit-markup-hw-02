@@ -146,10 +146,12 @@ body {
   font-family: 'Roboto', serif;
   background-color: #2e2f42;
 }
-.ending-container .logo-main {
+/* .ending-container .logo-main {
+  color: #f4f4fd;
+} */
+.ending-container .logo {
   color: #f4f4fd;
 }
-
 .ending-text {
   font-size: 16px;
   line-height: 1.5;
